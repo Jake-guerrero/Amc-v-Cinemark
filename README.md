@@ -2,4 +2,4 @@
 
 ![AMC vs Cinemark](logo.png)
 
-### This is a project of AMC and Cinemark made their revenue via concession stands, ticket sales and other revenue during the 2021 calendar year vs the 2022 calendar year.
+### This is a project of how much AMC and Cinemark made their revenue. Both companies made their revenue between concession stands, ticket sales and other things they have sold at the end of both the 2021 and 2022 calendar years.
