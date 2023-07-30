@@ -1,5 +1,4 @@
 # Amc-v-Cinemark
-<br/>
 ### *Project by Jake Guerrero*
 ### *This project was originally created in Power Bi, but was exported to Microsoft PowerPoint*
 <br/>
