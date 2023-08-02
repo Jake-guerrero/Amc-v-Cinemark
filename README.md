@@ -10,9 +10,9 @@
 <br/>
 <br/>
 
-<img src="Admissions.png"  width="622" height="300">
+<img src="Admissions.png"  width="560" height="300">
 
 
 
 
-![Concession Sales](Concessions.png)
+![Other Sales](Other.png)
