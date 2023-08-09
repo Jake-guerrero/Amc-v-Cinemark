@@ -17,4 +17,4 @@
 
 
 
-![Other Sales](Other.png)
+<img src="Other.png"  width="560" height="300">
