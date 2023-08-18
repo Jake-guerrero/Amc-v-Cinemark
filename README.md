@@ -2,7 +2,7 @@
 
 ### *Project by Jake Guerrero*
 
-### *This project was originally created in Power BI, but was exported to Microsoft PowerPoint.*
+### *This project was originally created in Power BI, and exported to Microsoft PowerPoint.*
 <br/>
 
 ![AMC vs Cinemark](20th-CF.png)
@@ -12,9 +12,9 @@
 <br/>
 <br/>
 
-<img src="Admissions.png"  width="560" height="300">
+<img src="Admissions.png"  width="560" height="350">
 
 
 
 
-<img src="Concessions.png"  width="560" height="300">
+<img src="Concessions.png"  width="560" height="350">
